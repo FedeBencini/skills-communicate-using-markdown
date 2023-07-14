@@ -8,3 +8,9 @@
 Added different size of titles
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```java
+public String helloGitHub(){
+  return "Hi GitHub";
+}
+```
