@@ -6,3 +6,5 @@
 ###### Title 6
 
 Added different size of titles
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
